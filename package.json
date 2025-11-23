@@ -1,5 +1,5 @@
 {
-  "name": "ts-backend-production-template",
+  "name": "@selkari/ts-backend-setup-prod",
   "version": "1.0.0",
   "description": "",
   "main": "src/server.js",
